@@ -1,0 +1,8 @@
+jupyter
+keras_tqdm
+matplotlib
+pandas
+pytest
+subword-nmt
+tensorflow-gpu
+tqdm
